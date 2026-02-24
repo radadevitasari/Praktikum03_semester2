@@ -11,7 +11,7 @@ public class Dosen19 {
         this.jenisKelamin = jenisKelamin;
         this.usia = usia;
     }
-    void tampilInformasi() {
+    void tampilInformasi(int no) {
         System.out.println("Kode           : " + kode);
         System.out.println("Nama           : " + nama);
         System.out.println("Jenis Kelamin  : " + (jenisKelamin ? "Laki-laki" : "Perempuan"));
