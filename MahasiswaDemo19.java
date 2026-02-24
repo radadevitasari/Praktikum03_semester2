@@ -1,5 +1,7 @@
+import java.util.Scanner;
+
 public class MahasiswaDemo19 {
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         Mahasiswa19[] arrayOfMahasiwa = new Mahasiswa19 [3];
         arrayOfMahasiwa[0] = new Mahasiswa19();
         arrayOfMahasiwa[0].nim = "24410706033";
