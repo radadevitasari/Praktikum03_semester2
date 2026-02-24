@@ -23,17 +23,17 @@ public class MahasiswaDemo19 {
         System.out.println("Nama : "+ arrayOfMahasiwa[0].nama);
         System.out.println("kelas : "+ arrayOfMahasiwa[0].kelas);
         System.out.println("IPK : "+ arrayOfMahasiwa[0].ipk);
-        System.out.println("------------------------");
+        System.out.println("-----------------------------");
         System.out.println("NIM : "+ arrayOfMahasiwa[1].nim);
         System.out.println("Nama : "+ arrayOfMahasiwa[1].nama);
         System.out.println("kelas : "+ arrayOfMahasiwa[1].kelas);
         System.out.println("IPK : "+ arrayOfMahasiwa[1].ipk);
-        System.out.println("------------------------");
+        System.out.println("-----------------------------");
         System.out.println("NIM : "+ arrayOfMahasiwa[2].nim);
         System.out.println("Nama : "+ arrayOfMahasiwa[2].nama);
         System.out.println("kelas : "+ arrayOfMahasiwa[2].kelas);
         System.out.println("IPK : "+ arrayOfMahasiwa[2].ipk);
-        System.out.println("------------------------");  
+        System.out.println("-----------------------------");  
 
     }   
 }
